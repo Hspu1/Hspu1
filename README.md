@@ -5,7 +5,9 @@
 ###
 ###
 ## Socials 
-[![Gmail](https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white)](rumyantsev1m0s1@gmail.com) 
+<a href="mailto:rumyantsev1m0s1@gmail.com" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
 
 [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://t.me/Hspu1) - preferred option
 
