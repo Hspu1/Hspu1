@@ -1,9 +1,16 @@
 # **Hey, I am a Python backend developer**
+> I have experience in team development, including commercial one also
+> 
+> I try to improve myself in terms of technology and always enjoy the process
+###
+###
 ## Socials 
-[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://t.me/Hspu1) 
+[![Gmail](https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white)](rumyantsev@gmail.com) 
+
+[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://t.me/Hspu1) - preferred option
 
 
-## Tech Stack:
+# Tech Stack:
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/FastAPI-006357?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/Uvicorn-6E40C9?style=for-the-badge&logo=uvicorn&logoColor=white" alt="Uvicorn"> <img src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=rest&logoColor=white" alt="REST API"> <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"> 
 
