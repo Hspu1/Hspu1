@@ -1,7 +1,7 @@
 # **Hey, I am a Python backend developer**
-> I have experience in team development, including commercial one also
+> Experienced in team development, including commercial projects
 > 
-> I try to improve myself in terms of technology and always enjoy the process
+> Continuously improving my technical skills and enjoying the process
 ###
 ###
 ## Socials 
