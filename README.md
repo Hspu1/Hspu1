@@ -5,7 +5,7 @@
 ###
 ###
 ## Socials 
-[![Gmail](https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rumyantsev1m0s1@gmail.com?subject=Contact&body=Hello!)
+[![Gmail](https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rumyantsev1m0s1@gmail.com)
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Hspu1)
 
