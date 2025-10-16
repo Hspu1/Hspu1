@@ -1,4 +1,4 @@
-# **Hey, I am a Python backend developer**
+# **Hey, I'm a Python backend developer**
 > Experienced in team development, including commercial projects
 > 
 > Continuously improving my technical skills and enjoying the process
@@ -7,7 +7,7 @@
 ## Socials 
 [![Gmail](https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=rumyantsev1m0s1@gmail.com&su=Contact)
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Hspu1)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Hspu1) **- preferred**
 
 
 # Tech Stack:
