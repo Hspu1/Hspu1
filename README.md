@@ -23,8 +23,3 @@
 <img src="https://img.shields.io/badge/asynchronous programming-E92063?style=for-the-badge&logo=asyncapi&logoColor=white" alt="asynchronous programming"> <img src="https://img.shields.io/badge/SOLID-6E40C9?style=for-the-badge&logo=solid&logoColor=white" alt="SOLID">
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/Docker-0A9EDC?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"> <img src="https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white" alt="Poetry"> <img src="https://img.shields.io/badge/UV-E92063?style=for-the-badge&logo=uv&logoColor=white" alt="UV"> <img src="https://img.shields.io/badge/Ruff-2496ED?style=for-the-badge&logo=ruff&logoColor=white" alt="Ruff"> <img src="https://img.shields.io/badge/MyPy-6E40C9?style=for-the-badge&logoColor=white" alt="MyPy">
-
-# Statistics 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hspu1&layout=compact&theme=onedark&hide=css,html,jupyter%20notebook,scss,shell)](https://github.com/Hspu1)
-
-![Hspu1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hspu1&count_private=true&show_icons=true&theme=onedark&hide_title=false&hide=stars,issues)
