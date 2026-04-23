@@ -1,6 +1,5 @@
 # **Qq, I'm a Python Backend Developer**
-> Experienced in team development, including commercial projects
-> <br> Continuously improving my skills and enjoying the process
+> Continuously improving my skills and enjoying the process
 > <br> Sharing my knowledge along the way
 ### Write to me at `hspu1@tuta.io` or reach out via
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Hspu1)
