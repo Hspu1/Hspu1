@@ -7,4 +7,4 @@
 <!--
 ![Visitor Count](https://profile-counter.glitch.me/Hspu1/count.svg)
 -->
-<a href="https://github.com/MQ-H" target="_blank"><img src="https://count.getloli.com/get/@Hspu1?theme=rule34" alt="Visitor Counter"></a>
+<a href="https://github.com/Hspu1" target="_blank"><img src="https://count.getloli.com/get/@Hspu1?theme=rule34" alt="Visitor Counter"></a>
